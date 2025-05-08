@@ -1,8 +1,8 @@
-Flask
-pdf2image
-pytesseract
-PyMuPDF
+Flask==2.1.1
+pdf2image==1.16.0
+pytesseract==0.3.8
+PyMuPDF==1.21.0
 googletrans==4.0.0-rc1
-transformers
-fpdf
-torch
+transformers==4.19.2
+fpdf==1.7.2
+torch==1.11.0
