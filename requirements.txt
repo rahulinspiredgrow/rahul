@@ -1,0 +1,8 @@
+Flask
+pdf2image
+pytesseract
+PyMuPDF
+googletrans==4.0.0-rc1
+transformers
+fpdf
+torch
